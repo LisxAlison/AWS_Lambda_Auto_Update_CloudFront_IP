@@ -46,13 +46,19 @@ step 5.
 web1安全组
 
 Key | value
+
 AutoUpdate | true
+
 Name | cloudfront_web1
+
 Protocol | https
 
 web2 安全组
 
 Key | value
+
 AutoUpdate | true
+
 Name | cloudfront_web1
+
 Protocol | https
