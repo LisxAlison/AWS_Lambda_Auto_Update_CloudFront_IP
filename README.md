@@ -11,7 +11,7 @@ https://github.com/wangerzi/aws-cloudfront-samples/blob/master/update_security_g
 
 1. 不指定区域，更新所有cloudfront IPV4
 2. 同时更新两组、四个安全组，每组IP 相同
-3.60个IP一组
+3. 60个IP一组
 
 步骤：
 
